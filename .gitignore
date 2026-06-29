@@ -1,0 +1,14 @@
+# Файлы с секретами и паролями
+secrets.h
+secrets.yaml
+
+# Временные файлы Arduino/PlatformIO
+*.tmp
+*.log
+.pio/
+.vscode/
+
+# Файлы сборки и прошивки
+*.bin
+*.elf
+*.hex
